@@ -1,6 +1,6 @@
 # Contributing to Bistro
 
-We want to make contributing to this project as easy and transparent as
+We want to make contributing to this project as easy and as transparent as
 possible.
 
 ## Our Development Process
